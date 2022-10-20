@@ -1,6 +1,6 @@
 # Machine Learning and Data Science Concepts
 
-#### Confusion Matrix with Matplotlib and seaborn
+#### Confusion Matrix with Matplotlib and seaborn [x]
 
 #### Exploratory Data Analysis
 
