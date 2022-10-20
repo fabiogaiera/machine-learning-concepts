@@ -1,33 +1,33 @@
 # Machine Learning and Data Science Concepts
 
-#### Confusion Matrix with Matplotlib and seaborn [x]
+- [x] Confusion Matrix with Matplotlib and seaborn 
 
-#### Exploratory Data Analysis
+- [ ] Exploratory Data Analysis
 
-#### Categorical Cross Entropy
+- [ ] Categorical Cross Entropy
 
-#### Sparse Categorical Cross Entropy
+- [ ] Sparse Categorical Cross Entropy
 
-#### Batch Normalization
+- [ ] Batch Normalization
 
-#### F1 Score
+- [ ] F1 Score
 
-#### Overfitting
+- [ ] Overfitting
 
-#### Underfitting
+- [ ] Underfitting
 
-#### Learning Curves
+- [ ] Learning Curves
 
-#### Vanishing Gradients
+- [ ] Vanishing Gradients
 
-#### Exploding Gradients
+- [ ] Exploding Gradients
 
-#### Dimensionality Reduction
+- [ ] Dimensionality Reduction
 
-#### Feature Engineering
+- [ ] Feature Engineering
 
-#### Data Wrangling
+- [ ] Data Wrangling
 
-#### Web Scraping
+- [ ] Web Scraping
 
-#### Machine Learning Algorithms: K-Nearest Neighbors, Support Vector Machines
+- [ ] Machine Learning Algorithms: K-Nearest Neighbors, Support Vector Machines
