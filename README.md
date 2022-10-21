@@ -10,9 +10,7 @@
 
 - [ ] F1 Score
 
-- [ ] Overfitting
-
-- [ ] Underfitting
+- [x] Underfitting vs. Overfitting
 
 - [ ] Learning Curves
 
