@@ -4,9 +4,7 @@
 
 - [ ] Exploratory Data Analysis
 
-- [ ] Categorical Cross Entropy
-
-- [ ] Sparse Categorical Cross Entropy
+- [x] Losses: Categorical Cross Entropy and Sparse Categorical Cross Entropy
 
 - [ ] Batch Normalization
 
