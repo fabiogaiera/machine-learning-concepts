@@ -26,4 +26,4 @@
 
 - [ ] Web Scraping
 
-- [ ] Machine Learning Algorithms: K-Nearest Neighbors, Support Vector Machines
+- [ ] Machine Learning Algorithms: K-Nearest Neighbours, Support Vector Machines
