@@ -14,7 +14,7 @@
 
 - [ ] Learning Curves
 
-- [ ] Vanishing Gradients
+- [x] Vanishing Gradients
 
 - [ ] Exploding Gradients
 
@@ -26,4 +26,4 @@
 
 - [ ] Web Scraping
 
-- [ ] Machine Learning Algorithms: K-Nearest Neighbours, Support Vector Machines
+- [ ] Machine Learning Algorithms: K-Nearest Neighbours, Support Vector Machines, Decision Trees
