@@ -1,29 +1,34 @@
 # Machine Learning and Data Science Concepts
 
-- [x] Confusion Matrix with Matplotlib and seaborn 
+- Confusion Matrix with Matplotlib and seaborn 
 
-- [ ] Exploratory Data Analysis
+- Exploratory Data Analysis
 
-- [x] Losses: Categorical Cross Entropy and Sparse Categorical Cross Entropy
+- Losses: Categorical Cross Entropy and Sparse Categorical Cross Entropy
 
-- [ ] Batch Normalization
+- Batch Normalization
 
-- [ ] F1 Score
+- F1 Score
 
-- [x] Underfitting vs. Overfitting
+- Underfitting vs. Overfitting
 
-- [ ] Learning Curves
+- Learning Curves
 
-- [x] Vanishing Gradients
+- Vanishing Gradients
 
-- [ ] Exploding Gradients
+- Exploding Gradients
 
-- [ ] Dimensionality Reduction
+- Dealing with missing data
+  - Identifying missing values in tabular data
+  - Eliminating training examples or features with missing values
+  - Imputing missing values
 
-- [ ] Feature Engineering
+- Dimensionality Reduction
 
-- [ ] Data Wrangling
+- Feature Engineering
 
-- [ ] Web Scraping
+- Data Wrangling
 
-- [ ] Machine Learning Algorithms: K-Nearest Neighbours, Support Vector Machines, Decision Trees
+- Web Scraping
+
+- Machine Learning Algorithms: K-Nearest Neighbours, Support Vector Machines, Decision Trees
