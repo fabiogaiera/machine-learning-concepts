@@ -21,7 +21,7 @@
 - Dealing with missing data
   - Identifying missing values in tabular data
   - Eliminating training examples or features with missing values
-  - Imputing missing values
+  - Adding missing values
 
 - Dimensionality Reduction
 
