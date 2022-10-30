@@ -14,14 +14,11 @@
 
 - Learning Curves
 
-- Vanishing Gradients
+- Vanishing Gradient
 
-- Exploding Gradients
+- Exploding Gradient
 
-- Dealing with missing data
-  - Identifying missing values in tabular data
-  - Eliminating training examples or features with missing values
-  - Adding missing values
+- Missing Data
 
 - Dimensionality Reduction
 
