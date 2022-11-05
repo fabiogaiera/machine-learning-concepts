@@ -18,11 +18,16 @@
 
 - Precision - Recall
 
-- Exploratory Data Analysis
-
 - Batch Normalization
 
 - Learning Curves
+
+- Machine Learning Algorithms
+  - K-Nearest Neighbours
+  - Support Vector Machines
+  - Decision Trees
+
+- Exploratory Data Analysis
 
 - Dimensionality Reduction
 
@@ -31,8 +36,3 @@
 - Data Wrangling
 
 - Web Scraping
-
-- Machine Learning Algorithms
-  - K-Nearest Neighbours
-  - Support Vector Machines
-  - Decision Trees
