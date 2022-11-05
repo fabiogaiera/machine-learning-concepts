@@ -1,24 +1,28 @@
 # Machine Learning and Data Science Concepts
 
-- Confusion Matrix with Matplotlib and seaborn 
+- Confusion Matrix
+  - Matplotlib
+  - seaborn 
 
-- Exploratory Data Analysis
-
-- Losses: Categorical Cross Entropy and Sparse Categorical Cross Entropy
-
-- Batch Normalization
-
-- Precision - Recall
+- Losses
+  - Categorical Cross Entropy
+  - Sparse Categorical Cross Entropy
 
 - Underfitting vs. Overfitting
 
-- Learning Curves
+- Vanishing Gradient Problem
 
-- Vanishing Gradient
-
-- Exploding Gradient
+- Exploding Gradient Problem
 
 - Missing Data
+
+- Precision - Recall
+
+- Exploratory Data Analysis
+
+- Batch Normalization
+
+- Learning Curves
 
 - Dimensionality Reduction
 
@@ -28,4 +32,7 @@
 
 - Web Scraping
 
-- Machine Learning Algorithms: K-Nearest Neighbours, Support Vector Machines, Decision Trees
+- Machine Learning Algorithms
+  - K-Nearest Neighbours
+  - Support Vector Machines
+  - Decision Trees
