@@ -16,7 +16,7 @@
 
 - Missing Data
 
-- Precision - Recall
+- Precision - Recall and F1-score
 
 - Batch Normalization
 
