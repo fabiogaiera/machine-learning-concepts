@@ -8,7 +8,7 @@
 
 - Batch Normalization
 
-- F1 Score
+- Precision - Recall
 
 - Underfitting vs. Overfitting
 
