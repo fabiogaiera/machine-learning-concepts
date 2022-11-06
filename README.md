@@ -20,6 +20,8 @@
 
 - Batch Normalization
 
+- One - Hot Encoding
+
 - Learning Curves
 
 - Machine Learning Algorithms
