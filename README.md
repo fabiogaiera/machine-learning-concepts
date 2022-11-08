@@ -24,6 +24,8 @@
 
 - Learning Curves
 
+- Bias - Variance
+
 - Machine Learning Algorithms
   - K-Nearest Neighbours
   - Support Vector Machines
