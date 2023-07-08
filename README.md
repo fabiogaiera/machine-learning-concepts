@@ -42,3 +42,5 @@
 - Data Wrangling
 
 - Web Scraping
+
+Source: `https://developers.google.com/machine-learning/glossary`
